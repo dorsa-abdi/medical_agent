@@ -1,0 +1,4 @@
+[
+  {"id":"hl7-history-structure","title":"Structured longitudinal health information","text":"Longitudinal records distinguish problems, allergies, procedures, medications, observations, encounters and family history. Dates, status and provenance help users interpret whether information is current, historical or uncertain.","source":"HL7 FHIR R5 — https://hl7.org/fhir/"},
+  {"id":"hl7-observation","title":"Clinical and social observations","text":"Observations can support diagnosis, monitoring, baselines and patterns, and may capture social history such as tobacco use as well as clinical measurements. Context and metadata are necessary for interpretation.","source":"HL7 FHIR Observation — https://hl7.org/fhir/observation.html"}
+]

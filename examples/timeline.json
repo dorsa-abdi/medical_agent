@@ -1,0 +1,5 @@
+[
+  {"date":"2024-03-10","type":"diagnosis","label":"hypertension","status":"active","source":"patient_reported"},
+  {"date":"2025-01-15","type":"test","label":"high cholesterol","value":"reported high","status":"historical","source":"patient_reported"},
+  {"date":"2026-06-01","type":"lifestyle","label":"smoking","status":"active","source":"patient_reported"}
+]

@@ -1,0 +1,11 @@
+{
+  "labels": [
+    "<PAD>", "hypertension", "high cholesterol", "diabetes", "obesity",
+    "smoking", "asthma", "chronic cough", "depression", "anxiety", "insomnia"
+  ],
+  "predictable_labels": [
+    "hypertension", "high cholesterol", "diabetes", "obesity", "asthma",
+    "chronic cough", "depression", "anxiety", "insomnia"
+  ],
+  "note": "Demo vocabulary only. A real checkpoint must use its exact training vocabulary and ICD mapping."
+}

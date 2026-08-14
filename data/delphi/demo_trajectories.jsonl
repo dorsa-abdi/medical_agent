@@ -1,0 +1,5 @@
+{"fixture_id":"who-cvd-1","source":"https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-%28cvds%29","events":[{"label":"smoking","age_days":10950},{"label":"hypertension","age_days":16425},{"label":"high cholesterol","age_days":18250}]}
+{"fixture_id":"who-cvd-2","source":"https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-%28cvds%29","events":[{"label":"obesity","age_days":10950},{"label":"hypertension","age_days":14600},{"label":"diabetes","age_days":18250}]}
+{"fixture_id":"cdc-diabetes-1","source":"https://www.cdc.gov/diabetes/risk-factors/index.html","events":[{"label":"obesity","age_days":9125},{"label":"hypertension","age_days":12775},{"label":"diabetes","age_days":17337}]}
+{"fixture_id":"who-copd-1","source":"https://www.who.int/news-room/fact-sheets/detail/chronic-obstructive-pulmonary-disease-%28copd%29","events":[{"label":"smoking","age_days":7300},{"label":"chronic cough","age_days":10950}]}
+{"fixture_id":"nice-depression-1","source":"https://www.nice.org.uk/guidance/ng222","events":[{"label":"anxiety","age_days":7300},{"label":"insomnia","age_days":8030},{"label":"depression","age_days":9490}]}
